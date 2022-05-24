@@ -13,3 +13,6 @@
 <div align="center">
     <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorygf&show_icons=true&locale=en&layout=compact&theme=discord_old_blurple" alt="gregorygf" /></p>
 </div>
+
+![Snake animation](https://github.com/GregoryGF/GregoryGF/blob/output/github-contribution-grid-snake.svg)
+
